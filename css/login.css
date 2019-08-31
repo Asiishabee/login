@@ -1,0 +1,30 @@
+body{
+    background: #ffe6e6;  
+    padding-top:95px;
+   
+}
+.form{
+    background: #fff;
+    
+   
+}
+.form container{
+    border-radius: 20px;
+    padding: 30px;
+    
+    
+}
+#wish{
+    /* background-color: pink; */
+    background:  linear-gradient(to right,#904271,pink);
+    width:200px;    
+    /* position: absolute;  */
+    text-align: center;
+    margin: auto; 
+    border-radius: 2px;
+   border-color: aliceblue;
+}
+#box {
+    border: 5px ;
+    background: linear-gradient(to right,pink,#decdde);
+}    
